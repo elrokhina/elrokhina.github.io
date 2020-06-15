@@ -1,5 +1,5 @@
 body {
-    background: url('sloj.jpg');
+    background: url('sloj.jpg') center center/ cover no-repeat;
     margin: 0;
     padding: 0;
 }
