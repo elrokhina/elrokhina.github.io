@@ -69,7 +69,7 @@ a {
     }
     @media only screen
 and (min-device-width : 375px)
-and (max-device-width : 812px) {
+and (max-device-width : 1400px) {
 body {
     background: url('sloj.jpg');
     min-width: 100%;
