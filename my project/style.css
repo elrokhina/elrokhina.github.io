@@ -73,6 +73,7 @@ and (min-device-width : 375px)
 and (max-device-width : 817px) {
 body {
      background: url('sloj.jpg') center center/ cover no-repeat;
+    min-width: 100%;
     width: auto;
     }
     h1 {
