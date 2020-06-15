@@ -70,8 +70,37 @@ a {
     }
     @media only screen
 and (min-device-width : 375px)
-and (max-device-width : 1400px) {
+and (max-device-width : 817px) {
 body {
-      background: url('sloj.jpg') center center/ cover no-repeat;
+     background: url('sloj.jpg') center center/ cover no-repeat;
     width: auto;
     }
+    h1 {
+        font-size: 40px;
+        font-family: "Oranienbaum";
+        color: rgb(245, 242, 242);
+        line-height: 1.2;
+        text-align: center;
+        width: 400px;
+        height: 132px;
+        z-index: 3;
+        margin-left: 100px;
+        margin-top: 150px;
+        text-align: left;
+      }
+
+a {
+        font-size: 30px;
+        font-family: "Oranienbaum";
+        color: rgb(245, 242, 242);
+        line-height: 1.2;
+        position: absolute;
+        left: 94.999px;
+        top: 427.4px;
+        z-index: 4;
+        background-color: none;
+        text-decoration: none;
+        text-align: right;
+        margin-top: -50px;
+        margin-left: 10px;
+      }
